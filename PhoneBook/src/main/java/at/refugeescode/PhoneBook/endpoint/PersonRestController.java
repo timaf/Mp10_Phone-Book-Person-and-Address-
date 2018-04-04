@@ -1,4 +1,4 @@
-package at.refugeescode.PhoneBook.persistance.endpoint;
+package at.refugeescode.PhoneBook.endpoint;
 
 import at.refugeescode.PhoneBook.persistance.Model.Person;
 import at.refugeescode.PhoneBook.persistance.Repository.PersonRepository;
